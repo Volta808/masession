@@ -19,6 +19,18 @@ latex:
 bibtex_bibfiles:
   - references.bib
 
+sphinx:
+  recursive_update: true
+    config:
+      html_theme_options:
+        repository_provider: https://git.dti.crosemont.quebec
+      html_context:
+        gitlab_url: https://git.dti.crosemont.quebec/session-intensive
+        gitlab_repo: rapports
+        gitlab_user: ""
+        gitlab_version: main
+        doc_path: source
+        
 # Information about where the book exists on the web
 repository:
   url: https://git.dti.crosemont.quebec/session-intensive/rapports  # Online location of your book
