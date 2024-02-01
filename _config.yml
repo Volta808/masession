@@ -17,7 +17,7 @@ latex:
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
-  - references.bib
+  - références.bib
 
 sphinx:
   recursive_update: true
