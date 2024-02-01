@@ -4,5 +4,11 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
+- file: description
+- file: équipe
+- file: risque
+- file: collecte
+- file: analyse
+- file: modèles
+- file: projet
+- file: références
