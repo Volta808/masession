@@ -2,13 +2,10 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: bilan
 chapters:
-- file: description
-- file: équipe
-- file: risque
-- file: collecte
-- file: analyse
-- file: modèles
-- file: projet
-- file: références
+- file: bilan
+- file: rétro1
+- file: rétro2
+- file: rétro3
+- file: rétroSession
