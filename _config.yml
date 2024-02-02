@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Bilan de compétence
+title: Bilan et rétrospective - 6e session
 author: Votre nom
 
 # Force re-execution of notebooks on each build.
