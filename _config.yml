@@ -26,16 +26,16 @@ sphinx:
       repository_provider: https://git.dti.crosemont.quebec
     html_context:
       gitlab_url: https://git.dti.crosemont.quebec/session-intensive
-      gitlab_repo: rapports
+      gitlab_repo: rapportIndividuel
       gitlab_user: ""
       gitlab_version: main
       doc_path: source
         
 # Information about where the book exists on the web
 repository:
-  url: https://git.dti.crosemont.quebec/session-intensive/rapports  # Online location of your book
+  url: https://git.dti.crosemont.quebec/session-intensive/rapportIndividuel  # Online location of your book
   path_to_book: docs  # Optional path to your book, relative to the repository root
-  branch: rechercheUX  # Which branch of the repository should be used when creating links (optional)
+  branch: individuel  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
