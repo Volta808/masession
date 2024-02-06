@@ -5,9 +5,9 @@ format: jb-book
 root: intro
 chapters:
 - file: autoformation
-- file: élémentScrum
 - file: bilan
 - file: rétro1
 - file: rétro2
 - file: rétro3
 - file: rétroSession
+- file: références.md
